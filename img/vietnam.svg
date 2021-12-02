@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="394px" height="522px" viewBox="0 0 394 522" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>vietnam</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="144" cy="144" r="144"></circle>
+    </defs>
+    <g id="Map-Pin-Collection-Flags---Flat-Style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flat-Colors-Blue" transform="translate(-95.000000, -28247.000000)">
+            <g id="vietnam" transform="translate(100.000000, 28252.000000)">
+                <path d="M170.212439,503.092909 L170.210104,503.089529 C147.603539,470.316717 135.66262,453.231309 98.6528889,400.49836 C72.610034,363.391456 60.8130392,346.3874 49.5611526,329.534042 C22.0576461,288.338598 9.26101232,264.050069 2.86645193,239.769209 C-0.913750232,225.415359 -2.5,210.732512 -2.5,192 C-2.5,84.5802881 84.5802881,-2.5 192,-2.5 C299.419712,-2.5 386.5,84.5802881 386.5,192 C386.5,210.732512 384.91375,225.415359 381.133548,239.769209 C374.738988,264.050069 361.942354,288.338598 334.438847,329.534042 C323.186961,346.3874 311.389966,363.391456 285.347111,400.49836 C248.33738,453.231309 236.396461,470.316717 213.78754,503.09294 C203.258631,518.302713 180.740769,518.302337 170.212439,503.092909 Z" id="Path" stroke="#3D3D3D" stroke-width="5" fill="#54A0FF"></path>
+                <path d="M191.732,0 C297.771,0 383.732,85.961 383.732,192 C383.732,269.413 356.762,291.031 211.464,501.67 C206.459458,508.899425 198.463221,512.334137 190.615878,511.974569" id="Shape" fill="#2E86DE"></path>
+                <g id="Bg" transform="translate(48.000000, 48.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <circle stroke="#3D3D3D" stroke-width="5" cx="144" cy="144" r="146.5"></circle>
+                    <g id="Flag_of_Vietnam" mask="url(#mask-2)" fill-rule="nonzero">
+                        <g transform="translate(-73.000000, -2.000000)">
+                            <rect id="Rectangle" fill="#DA251D" x="0" y="0" width="435" height="290"></rect>
+                            <polygon id="Path" fill="#FFFF00" points="217.5 58 166.315 215.325 300.295 118.175 134.705 118.175 268.685 215.325"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

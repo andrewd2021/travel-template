@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="394px" height="522px" viewBox="0 0 394 522" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>brazil</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="144" cy="144" r="144"></circle>
+    </defs>
+    <g id="Map-Pin-Collection-Flags---Flat-Style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flat-Colors-Blue" transform="translate(-2031.000000, -3767.000000)">
+            <g id="brazil" transform="translate(2036.000000, 3772.000000)">
+                <path d="M170.212439,503.092909 L170.210104,503.089529 C147.603539,470.316717 135.66262,453.231309 98.6528889,400.49836 C72.610034,363.391456 60.8130392,346.3874 49.5611526,329.534042 C22.0576461,288.338598 9.26101232,264.050069 2.86645193,239.769209 C-0.913750232,225.415359 -2.5,210.732512 -2.5,192 C-2.5,84.5802881 84.5802881,-2.5 192,-2.5 C299.419712,-2.5 386.5,84.5802881 386.5,192 C386.5,210.732512 384.91375,225.415359 381.133548,239.769209 C374.738988,264.050069 361.942354,288.338598 334.438847,329.534042 C323.186961,346.3874 311.389966,363.391456 285.347111,400.49836 C248.33738,453.231309 236.396461,470.316717 213.78754,503.09294 C203.258631,518.302713 180.740769,518.302337 170.212439,503.092909 Z" id="Path" stroke="#3D3D3D" stroke-width="5" fill="#54A0FF"></path>
+                <path d="M191.732,0 C297.771,0 383.732,85.961 383.732,192 C383.732,269.413 356.762,291.031 211.464,501.67 C206.459458,508.899425 198.463221,512.334137 190.615878,511.974569" id="Shape" fill="#2E86DE"></path>
+                <g id="Bg" transform="translate(48.000000, 48.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <circle stroke="#3D3D3D" stroke-width="5" cx="144" cy="144" r="146.5"></circle>
+                    <g id="brazil" mask="url(#mask-2)">
+                        <g transform="translate(-1.000000, -1.000000)">
+                            <circle id="Oval" fill="#009B3A" fill-rule="nonzero" cx="145" cy="145" r="145"></circle>
+                            <polygon id="Path" fill="#FEDF00" fill-rule="nonzero" points="145 56.7391797 264.782461 145 145 233.26082 25.2175391 145"></polygon>
+                            <circle id="Oval" fill="#F0F0F0" fill-rule="nonzero" cx="145" cy="145" r="50.4345117"></circle>
+                            <g id="Group" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(94.023438, 94.023438)">
+                                <path d="M25.7590234,47.8245117 C16.9887891,47.8245117 8.52498047,49.1583984 0.557910156,51.6335938 C0.91078125,79.1835938 23.3427344,101.411641 50.9765625,101.411641 C68.0639063,101.411641 83.1552344,92.905918 92.2783398,79.9063281 C76.6698828,60.3670117 52.6536914,47.8245117 25.7590234,47.8245117 Z" id="Path" fill="#002776" fill-rule="nonzero"></path>
+                                <path d="M100.476504,60.6394531 C101.083691,57.510625 101.411641,54.2826758 101.411641,50.9765625 C101.411641,23.1218359 78.8312891,0.542050781 50.9771289,0.542050781 C30.193418,0.542050781 12.3516211,13.1168359 4.63037109,31.0707812 C11.4555664,29.6564648 18.5220508,28.9116406 25.7601562,28.9116406 C55.0529883,28.9110742 81.5528711,41.0876758 100.476504,60.6394531 Z" id="Path" fill="#002776" fill-rule="nonzero"></path>
+                            </g>
+                            <g id="αCMa" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(94.299320, 158.948980)">
+                                <g id="star1" transform="translate(0.049320, 0.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                                    <g id="star">
+                                        <g id="c" transform="translate(6.214286, 0.000000)">
+                                            <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                            <g id="t-link" transform="translate(3.107143, 4.660714) scale(-1, 1) translate(-3.107143, -4.660714) ">
+                                                <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(10.798963, 5.734206) rotate(72.000000) translate(-10.798963, -5.734206) translate(7.691820, 1.073491)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                <g id="t-link" transform="translate(3.107143, 4.660714) scale(-1, 1) translate(-3.107143, -4.660714) ">
+                                                    <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(7.843894, 5.734206) rotate(-72.000000) translate(-7.843894, -5.734206) translate(4.736751, 1.073491)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                <g id="t-link" transform="translate(3.107143, 4.660714) scale(-1, 1) translate(-3.107143, -4.660714) ">
+                                                    <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(10.234595, 7.471151) rotate(144.000000) translate(-10.234595, -7.471151) translate(7.127452, 2.810437)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                <g id="t-link" transform="translate(3.107143, 4.660714) scale(-1, 1) translate(-3.107143, -4.660714) ">
+                                                    <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(8.408262, 7.471151) rotate(-144.000000) translate(-8.408262, -7.471151) translate(5.301119, 2.810437)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                <g id="t-link" transform="translate(3.107143, 4.660714) scale(-1, 1) translate(-3.107143, -4.660714) ">
+                                                    <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="γCMa" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(106.333333, 157.765306)">
+                                <g id="star4" fill="#FFFFFF" fill-rule="nonzero">
+                                    <g id="star">
+                                        <g id="c" transform="translate(2.959184, 0.000000)">
+                                            <polyline id="t" transform="translate(1.602776, 2.297484) rotate(18.000000) translate(-1.602776, -2.297484) " points="1.23287823 1.5576884 1.23287823 3.03728024 1.97267415 3.03728024"></polyline>
+                                            <g id="t-link" transform="translate(1.479592, 2.219388) scale(-1, 1) translate(-1.479592, -2.219388) ">
+                                                <polyline id="t" transform="translate(1.602776, 2.297484) rotate(18.000000) translate(-1.602776, -2.297484) " points="1.23287823 1.5576884 1.23287823 3.03728024 1.97267415 3.03728024"></polyline>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(5.142363, 2.730574) rotate(72.000000) translate(-5.142363, -2.730574) translate(3.662771, 0.511186)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(1.602776, 2.297484) rotate(18.000000) translate(-1.602776, -2.297484) " points="1.23287823 1.5576884 1.23287823 3.03728024 1.97267415 3.03728024"></polyline>
+                                                <g id="t-link" transform="translate(1.479592, 2.219388) scale(-1, 1) translate(-1.479592, -2.219388) ">
+                                                    <polyline id="t" transform="translate(1.602776, 2.297484) rotate(18.000000) translate(-1.602776, -2.297484) " points="1.23287823 1.5576884 1.23287823 3.03728024 1.97267415 3.03728024"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(3.735188, 2.730574) rotate(-72.000000) translate(-3.735188, -2.730574) translate(2.255596, 0.511186)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(1.602776, 2.297484) rotate(18.000000) translate(-1.602776, -2.297484) " points="1.23287823 1.5576884 1.23287823 3.03728024 1.97267415 3.03728024"></polyline>
+                                                <g id="t-link" transform="translate(1.479592, 2.219388) scale(-1, 1) translate(-1.479592, -2.219388) ">
+                                                    <polyline id="t" transform="translate(1.602776, 2.297484) rotate(18.000000) translate(-1.602776, -2.297484) " points="1.23287823 1.5576884 1.23287823 3.03728024 1.97267415 3.03728024"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(4.873617, 3.557691) rotate(144.000000) translate(-4.873617, -3.557691) translate(3.394025, 1.338303)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(1.602776, 2.297484) rotate(18.000000) translate(-1.602776, -2.297484) " points="1.23287823 1.5576884 1.23287823 3.03728024 1.97267415 3.03728024"></polyline>
+                                                <g id="t-link" transform="translate(1.479592, 2.219388) scale(-1, 1) translate(-1.479592, -2.219388) ">
+                                                    <polyline id="t" transform="translate(1.602776, 2.297484) rotate(18.000000) translate(-1.602776, -2.297484) " points="1.23287823 1.5576884 1.23287823 3.03728024 1.97267415 3.03728024"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(4.003934, 3.557691) rotate(-144.000000) translate(-4.003934, -3.557691) translate(2.524343, 1.338303)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(1.602776, 2.297484) rotate(18.000000) translate(-1.602776, -2.297484) " points="1.23287823 1.5576884 1.23287823 3.03728024 1.97267415 3.03728024"></polyline>
+                                                <g id="t-link" transform="translate(1.479592, 2.219388) scale(-1, 1) translate(-1.479592, -2.219388) ">
+                                                    <polyline id="t" transform="translate(1.602776, 2.297484) rotate(18.000000) translate(-1.602776, -2.297484) " points="1.23287823 1.5576884 1.23287823 3.03728024 1.97267415 3.03728024"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="δCMa" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(110.969388, 167.136054)">
+                                <g id="star2" transform="translate(0.024660, 0.049320)" fill="#FFFFFF" fill-rule="nonzero">
+                                    <g id="star">
+                                        <g id="c" transform="translate(5.178571, 0.000000)">
+                                            <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                            <g id="t-link" transform="translate(2.589286, 3.883929) scale(-1, 1) translate(-2.589286, -3.883929) ">
+                                                <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(8.999136, 4.778505) rotate(72.000000) translate(-8.999136, -4.778505) translate(6.409850, 0.894576)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                <g id="t-link" transform="translate(2.589286, 3.883929) scale(-1, 1) translate(-2.589286, -3.883929) ">
+                                                    <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(6.536579, 4.778505) rotate(-72.000000) translate(-6.536579, -4.778505) translate(3.947293, 0.894576)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                <g id="t-link" transform="translate(2.589286, 3.883929) scale(-1, 1) translate(-2.589286, -3.883929) ">
+                                                    <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(8.528829, 6.225960) rotate(144.000000) translate(-8.528829, -6.225960) translate(5.939543, 2.342031)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                <g id="t-link" transform="translate(2.589286, 3.883929) scale(-1, 1) translate(-2.589286, -3.883929) ">
+                                                    <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(7.006885, 6.225960) rotate(-144.000000) translate(-7.006885, -6.225960) translate(4.417599, 2.342031)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                <g id="t-link" transform="translate(2.589286, 3.883929) scale(-1, 1) translate(-2.589286, -3.883929) ">
+                                                    <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="εCMa" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(110.377551, 175.421769)">
+                                <g id="star3" fill="#FFFFFF" fill-rule="nonzero">
+                                    <g id="star">
+                                        <g id="c" transform="translate(4.142857, 0.000000)">
+                                            <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                            <g id="t-link" transform="translate(2.071429, 3.107143) scale(-1, 1) translate(-2.071429, -3.107143) ">
+                                                <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(7.199309, 3.822804) rotate(72.000000) translate(-7.199309, -3.822804) translate(5.127880, 0.715661)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                <g id="t-link" transform="translate(2.071429, 3.107143) scale(-1, 1) translate(-2.071429, -3.107143) ">
+                                                    <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(5.229263, 3.822804) rotate(-72.000000) translate(-5.229263, -3.822804) translate(3.157834, 0.715661)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                <g id="t-link" transform="translate(2.071429, 3.107143) scale(-1, 1) translate(-2.071429, -3.107143) ">
+                                                    <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(6.823063, 4.980768) rotate(144.000000) translate(-6.823063, -4.980768) translate(4.751635, 1.873625)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                <g id="t-link" transform="translate(2.071429, 3.107143) scale(-1, 1) translate(-2.071429, -3.107143) ">
+                                                    <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(5.605508, 4.980768) rotate(-144.000000) translate(-5.605508, -4.980768) translate(3.534080, 1.873625)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                <g id="t-link" transform="translate(2.071429, 3.107143) scale(-1, 1) translate(-2.071429, -3.107143) ">
+                                                    <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="αVir" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(169.561224, 119.000000)">
+                                <g id="star1" transform="translate(0.049320, 0.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                                    <g id="star">
+                                        <g id="c" transform="translate(6.214286, 0.000000)">
+                                            <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                            <g id="t-link" transform="translate(3.107143, 4.660714) scale(-1, 1) translate(-3.107143, -4.660714) ">
+                                                <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(10.798963, 5.734206) rotate(72.000000) translate(-10.798963, -5.734206) translate(7.691820, 1.073491)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                <g id="t-link" transform="translate(3.107143, 4.660714) scale(-1, 1) translate(-3.107143, -4.660714) ">
+                                                    <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(7.843894, 5.734206) rotate(-72.000000) translate(-7.843894, -5.734206) translate(4.736751, 1.073491)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                <g id="t-link" transform="translate(3.107143, 4.660714) scale(-1, 1) translate(-3.107143, -4.660714) ">
+                                                    <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(10.234595, 7.471151) rotate(144.000000) translate(-10.234595, -7.471151) translate(7.127452, 2.810437)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                <g id="t-link" transform="translate(3.107143, 4.660714) scale(-1, 1) translate(-3.107143, -4.660714) ">
+                                                    <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(8.408262, 7.471151) rotate(-144.000000) translate(-8.408262, -7.471151) translate(5.301119, 2.810437)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                <g id="t-link" transform="translate(3.107143, 4.660714) scale(-1, 1) translate(-3.107143, -4.660714) ">
+                                                    <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="αHya" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(121.030612, 145.435374)">
+                                <g id="star2" transform="translate(0.024660, 0.049320)" fill="#FFFFFF" fill-rule="nonzero">
+                                    <g id="star">
+                                        <g id="c" transform="translate(5.178571, 0.000000)">
+                                            <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                            <g id="t-link" transform="translate(2.589286, 3.883929) scale(-1, 1) translate(-2.589286, -3.883929) ">
+                                                <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(8.999136, 4.778505) rotate(72.000000) translate(-8.999136, -4.778505) translate(6.409850, 0.894576)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                <g id="t-link" transform="translate(2.589286, 3.883929) scale(-1, 1) translate(-2.589286, -3.883929) ">
+                                                    <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(6.536579, 4.778505) rotate(-72.000000) translate(-6.536579, -4.778505) translate(3.947293, 0.894576)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                <g id="t-link" transform="translate(2.589286, 3.883929) scale(-1, 1) translate(-2.589286, -3.883929) ">
+                                                    <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(8.528829, 6.225960) rotate(144.000000) translate(-8.528829, -6.225960) translate(5.939543, 2.342031)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                <g id="t-link" transform="translate(2.589286, 3.883929) scale(-1, 1) translate(-2.589286, -3.883929) ">
+                                                    <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(7.006885, 6.225960) rotate(-144.000000) translate(-7.006885, -6.225960) translate(4.417599, 2.342031)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                <g id="t-link" transform="translate(2.589286, 3.883929) scale(-1, 1) translate(-2.589286, -3.883929) ">
+                                                    <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="αCru" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(147.071429, 174.040816)">
+                                <g id="star1" transform="translate(0.049320, 0.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                                    <g id="star">
+                                        <g id="c" transform="translate(6.214286, 0.000000)">
+                                            <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                            <g id="t-link" transform="translate(3.107143, 4.660714) scale(-1, 1) translate(-3.107143, -4.660714) ">
+                                                <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(10.798963, 5.734206) rotate(72.000000) translate(-10.798963, -5.734206) translate(7.691820, 1.073491)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                <g id="t-link" transform="translate(3.107143, 4.660714) scale(-1, 1) translate(-3.107143, -4.660714) ">
+                                                    <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(7.843894, 5.734206) rotate(-72.000000) translate(-7.843894, -5.734206) translate(4.736751, 1.073491)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                <g id="t-link" transform="translate(3.107143, 4.660714) scale(-1, 1) translate(-3.107143, -4.660714) ">
+                                                    <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(10.234595, 7.471151) rotate(144.000000) translate(-10.234595, -7.471151) translate(7.127452, 2.810437)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                <g id="t-link" transform="translate(3.107143, 4.660714) scale(-1, 1) translate(-3.107143, -4.660714) ">
+                                                    <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(8.408262, 7.471151) rotate(-144.000000) translate(-8.408262, -7.471151) translate(5.301119, 2.810437)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                <g id="t-link" transform="translate(3.107143, 4.660714) scale(-1, 1) translate(-3.107143, -4.660714) ">
+                                                    <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="βCru" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(157.034014, 160.625850)">
+                                <g id="star2" transform="translate(0.024660, 0.049320)" fill="#FFFFFF" fill-rule="nonzero">
+                                    <g id="star">
+                                        <g id="c" transform="translate(5.178571, 0.000000)">
+                                            <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                            <g id="t-link" transform="translate(2.589286, 3.883929) scale(-1, 1) translate(-2.589286, -3.883929) ">
+                                                <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(8.999136, 4.778505) rotate(72.000000) translate(-8.999136, -4.778505) translate(6.409850, 0.894576)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                <g id="t-link" transform="translate(2.589286, 3.883929) scale(-1, 1) translate(-2.589286, -3.883929) ">
+                                                    <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(6.536579, 4.778505) rotate(-72.000000) translate(-6.536579, -4.778505) translate(3.947293, 0.894576)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                <g id="t-link" transform="translate(2.589286, 3.883929) scale(-1, 1) translate(-2.589286, -3.883929) ">
+                                                    <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(8.528829, 6.225960) rotate(144.000000) translate(-8.528829, -6.225960) translate(5.939543, 2.342031)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                <g id="t-link" transform="translate(2.589286, 3.883929) scale(-1, 1) translate(-2.589286, -3.883929) ">
+                                                    <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(7.006885, 6.225960) rotate(-144.000000) translate(-7.006885, -6.225960) translate(4.417599, 2.342031)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                <g id="t-link" transform="translate(2.589286, 3.883929) scale(-1, 1) translate(-2.589286, -3.883929) ">
+                                                    <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="γCru" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(148.649660, 154.115646)">
+                                <g id="star2" transform="translate(0.024660, 0.049320)" fill="#FFFFFF" fill-rule="nonzero">
+                                    <g id="star">
+                                        <g id="c" transform="translate(5.178571, 0.000000)">
+                                            <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                            <g id="t-link" transform="translate(2.589286, 3.883929) scale(-1, 1) translate(-2.589286, -3.883929) ">
+                                                <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(8.999136, 4.778505) rotate(72.000000) translate(-8.999136, -4.778505) translate(6.409850, 0.894576)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                <g id="t-link" transform="translate(2.589286, 3.883929) scale(-1, 1) translate(-2.589286, -3.883929) ">
+                                                    <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(6.536579, 4.778505) rotate(-72.000000) translate(-6.536579, -4.778505) translate(3.947293, 0.894576)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                <g id="t-link" transform="translate(2.589286, 3.883929) scale(-1, 1) translate(-2.589286, -3.883929) ">
+                                                    <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(8.528829, 6.225960) rotate(144.000000) translate(-8.528829, -6.225960) translate(5.939543, 2.342031)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                <g id="t-link" transform="translate(2.589286, 3.883929) scale(-1, 1) translate(-2.589286, -3.883929) ">
+                                                    <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(7.006885, 6.225960) rotate(-144.000000) translate(-7.006885, -6.225960) translate(4.417599, 2.342031)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                <g id="t-link" transform="translate(2.589286, 3.883929) scale(-1, 1) translate(-2.589286, -3.883929) ">
+                                                    <polyline id="t" transform="translate(2.804858, 4.020598) rotate(18.000000) translate(-2.804858, -4.020598) " points="2.1575369 2.7259547 2.1575369 5.31524042 3.45217976 5.31524042"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="δCru" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(142.928571, 161.710884)">
+                                <g id="star3" fill="#FFFFFF" fill-rule="nonzero">
+                                    <g id="star">
+                                        <g id="c" transform="translate(4.142857, 0.000000)">
+                                            <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                            <g id="t-link" transform="translate(2.071429, 3.107143) scale(-1, 1) translate(-2.071429, -3.107143) ">
+                                                <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(7.199309, 3.822804) rotate(72.000000) translate(-7.199309, -3.822804) translate(5.127880, 0.715661)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                <g id="t-link" transform="translate(2.071429, 3.107143) scale(-1, 1) translate(-2.071429, -3.107143) ">
+                                                    <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(5.229263, 3.822804) rotate(-72.000000) translate(-5.229263, -3.822804) translate(3.157834, 0.715661)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                <g id="t-link" transform="translate(2.071429, 3.107143) scale(-1, 1) translate(-2.071429, -3.107143) ">
+                                                    <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(6.823063, 4.980768) rotate(144.000000) translate(-6.823063, -4.980768) translate(4.751635, 1.873625)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                <g id="t-link" transform="translate(2.071429, 3.107143) scale(-1, 1) translate(-2.071429, -3.107143) ">
+                                                    <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(5.605508, 4.980768) rotate(-144.000000) translate(-5.605508, -4.980768) translate(3.534080, 1.873625)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                <g id="t-link" transform="translate(2.071429, 3.107143) scale(-1, 1) translate(-2.071429, -3.107143) ">
+                                                    <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="εCru" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(148.353741, 167.925170)">
+                                <g id="star4" fill="#FFFFFF" fill-rule="nonzero">
+                                    <g id="star">
+                                        <g id="c" transform="translate(2.959184, 0.000000)">
+                                            <polyline id="t" transform="translate(1.602776, 2.297484) rotate(18.000000) translate(-1.602776, -2.297484) " points="1.23287823 1.5576884 1.23287823 3.03728024 1.97267415 3.03728024"></polyline>
+                                            <g id="t-link" transform="translate(1.479592, 2.219388) scale(-1, 1) translate(-1.479592, -2.219388) ">
+                                                <polyline id="t" transform="translate(1.602776, 2.297484) rotate(18.000000) translate(-1.602776, -2.297484) " points="1.23287823 1.5576884 1.23287823 3.03728024 1.97267415 3.03728024"></polyline>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(5.142363, 2.730574) rotate(72.000000) translate(-5.142363, -2.730574) translate(3.662771, 0.511186)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(1.602776, 2.297484) rotate(18.000000) translate(-1.602776, -2.297484) " points="1.23287823 1.5576884 1.23287823 3.03728024 1.97267415 3.03728024"></polyline>
+                                                <g id="t-link" transform="translate(1.479592, 2.219388) scale(-1, 1) translate(-1.479592, -2.219388) ">
+                                                    <polyline id="t" transform="translate(1.602776, 2.297484) rotate(18.000000) translate(-1.602776, -2.297484) " points="1.23287823 1.5576884 1.23287823 3.03728024 1.97267415 3.03728024"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(3.735188, 2.730574) rotate(-72.000000) translate(-3.735188, -2.730574) translate(2.255596, 0.511186)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(1.602776, 2.297484) rotate(18.000000) translate(-1.602776, -2.297484) " points="1.23287823 1.5576884 1.23287823 3.03728024 1.97267415 3.03728024"></polyline>
+                                                <g id="t-link" transform="translate(1.479592, 2.219388) scale(-1, 1) translate(-1.479592, -2.219388) ">
+                                                    <polyline id="t" transform="translate(1.602776, 2.297484) rotate(18.000000) translate(-1.602776, -2.297484) " points="1.23287823 1.5576884 1.23287823 3.03728024 1.97267415 3.03728024"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(4.873617, 3.557691) rotate(144.000000) translate(-4.873617, -3.557691) translate(3.394025, 1.338303)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(1.602776, 2.297484) rotate(18.000000) translate(-1.602776, -2.297484) " points="1.23287823 1.5576884 1.23287823 3.03728024 1.97267415 3.03728024"></polyline>
+                                                <g id="t-link" transform="translate(1.479592, 2.219388) scale(-1, 1) translate(-1.479592, -2.219388) ">
+                                                    <polyline id="t" transform="translate(1.602776, 2.297484) rotate(18.000000) translate(-1.602776, -2.297484) " points="1.23287823 1.5576884 1.23287823 3.03728024 1.97267415 3.03728024"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(4.003934, 3.557691) rotate(-144.000000) translate(-4.003934, -3.557691) translate(2.524343, 1.338303)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(1.602776, 2.297484) rotate(18.000000) translate(-1.602776, -2.297484) " points="1.23287823 1.5576884 1.23287823 3.03728024 1.97267415 3.03728024"></polyline>
+                                                <g id="t-link" transform="translate(1.479592, 2.219388) scale(-1, 1) translate(-1.479592, -2.219388) ">
+                                                    <polyline id="t" transform="translate(1.602776, 2.297484) rotate(18.000000) translate(-1.602776, -2.297484) " points="1.23287823 1.5576884 1.23287823 3.03728024 1.97267415 3.03728024"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="γTrA" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(167.000000, 177.000000)">
+                                <g id="star3" fill="#FFFFFF" fill-rule="nonzero">
+                                    <g id="star">
+                                        <g id="c" transform="translate(4.142857, 0.000000)">
+                                            <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                            <g id="t-link" transform="translate(2.071429, 3.107143) scale(-1, 1) translate(-2.071429, -3.107143) ">
+                                                <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(7.199309, 3.822804) rotate(72.000000) translate(-7.199309, -3.822804) translate(5.127880, 0.715661)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                <g id="t-link" transform="translate(2.071429, 3.107143) scale(-1, 1) translate(-2.071429, -3.107143) ">
+                                                    <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(5.229263, 3.822804) rotate(-72.000000) translate(-5.229263, -3.822804) translate(3.157834, 0.715661)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                <g id="t-link" transform="translate(2.071429, 3.107143) scale(-1, 1) translate(-2.071429, -3.107143) ">
+                                                    <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(6.823063, 4.980768) rotate(144.000000) translate(-6.823063, -4.980768) translate(4.751635, 1.873625)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                <g id="t-link" transform="translate(2.071429, 3.107143) scale(-1, 1) translate(-2.071429, -3.107143) ">
+                                                    <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(5.605508, 4.980768) rotate(-144.000000) translate(-5.605508, -4.980768) translate(3.534080, 1.873625)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                <g id="t-link" transform="translate(2.071429, 3.107143) scale(-1, 1) translate(-2.071429, -3.107143) ">
+                                                    <polyline id="t" transform="translate(2.243887, 3.216478) rotate(18.000000) translate(-2.243887, -3.216478) " points="1.72602952 2.18076376 1.72602952 4.25219234 2.76174381 4.25219234"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="αCar" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(117.972789, 179.959184)">
+                                <g id="star1" transform="translate(0.049320, 0.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                                    <g id="star">
+                                        <g id="c" transform="translate(6.214286, 0.000000)">
+                                            <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                            <g id="t-link" transform="translate(3.107143, 4.660714) scale(-1, 1) translate(-3.107143, -4.660714) ">
+                                                <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(10.798963, 5.734206) rotate(72.000000) translate(-10.798963, -5.734206) translate(7.691820, 1.073491)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                <g id="t-link" transform="translate(3.107143, 4.660714) scale(-1, 1) translate(-3.107143, -4.660714) ">
+                                                    <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(7.843894, 5.734206) rotate(-72.000000) translate(-7.843894, -5.734206) translate(4.736751, 1.073491)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                <g id="t-link" transform="translate(3.107143, 4.660714) scale(-1, 1) translate(-3.107143, -4.660714) ">
+                                                    <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(10.234595, 7.471151) rotate(144.000000) translate(-10.234595, -7.471151) translate(7.127452, 2.810437)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                <g id="t-link" transform="translate(3.107143, 4.660714) scale(-1, 1) translate(-3.107143, -4.660714) ">
+                                                    <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(8.408262, 7.471151) rotate(-144.000000) translate(-8.408262, -7.471151) translate(5.301119, 2.810437)">
+                                            <g id="c">
+                                                <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                <g id="t-link" transform="translate(3.107143, 4.660714) scale(-1, 1) translate(-3.107143, -4.660714) ">
+                                                    <polyline id="t" transform="translate(3.365830, 4.824717) rotate(18.000000) translate(-3.365830, -4.824717) " points="2.58904428 3.27114565 2.58904428 6.3782885 4.14261571 6.3782885"></polyline>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
