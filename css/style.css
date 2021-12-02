@@ -1,0 +1,421 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Indie Flower", cursive;
+  scroll-behavior: smooth;
+}
+
+section {
+  padding: 100px;
+}
+
+.landing {
+  position: relative;
+  min-height: 100vh;
+  background: url(/img/travel-landing.jpg);
+  background-size: cover;
+  background-position: right;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.landing h2 {
+  font-size:3em;
+  color: #fff;
+  font-weight: 500;
+  line-height: 1.4em;
+}
+.landing h2 span {
+  font-size: 1.2em;
+  font-weight: 700;
+}
+.landing h3 {
+  font-size:3em;
+  color: #fff;
+  font-weight: 500;
+  line-height: 1.4em;
+}
+.btn {
+  position: relative;
+  background: #2196f3;
+  display: inline-block;
+  color: white;
+  margin-top: 20px;
+  padding: 10px 25px;
+  font-size: 2em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+header {
+  position: fixed;
+  color: black;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 40px 100px;
+  z-index: 1000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: 0.5s;
+  font-size: 30px;
+}
+header.sticky {
+  background: #fff;
+  padding: 20px 100px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+}
+header .logo {
+  color: black;
+  font-size: 44px;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+header.sticky .logo {
+  color: black;
+}
+header ul {
+  position: relative;
+  display: flex;
+}
+header ul li {
+  position: relative;
+  list-style: none;
+}
+header ul li a {
+  position: relative;
+  display: inline-block;
+  text-decoration: none;
+  margin: 0 15px;
+  color: black;
+}
+header.sticky ul li a {
+  color: black;
+}
+.heading {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 30px;
+  color: black;
+}
+.heading h2 {
+  font-size: 28px;
+  font-weight: 600;
+}
+.content {
+  display: flex;
+  justify-content: space-between;
+}
+.contentBox {
+  padding-right: 30px;
+  font-size: 1.4em;
+}
+.contentBox h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.w50 {
+  min-width: 50%;
+}
+.aboutImg {
+  max-width: 100%;
+}
+
+/* Services start */
+.services {
+  background: #111;
+}
+.services h2,
+.services p {
+  color: white;
+}
+.heading.white {
+  color: fff;
+}
+.services .content {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.services .content .servicesBox {
+  padding: 40px 20px;
+  background: #222;
+  max-width: 340px;
+  color: white;
+  margin: 20px;
+  text-align: center;
+  transition: 0.5s;
+}
+.services .content .servicesBox:hover {
+  background: #2196f3;
+}
+.services .content .servicesBox img {
+  max-width: 80px;
+  filter: invert(1);
+}
+.services .content .servicesBox h2 {
+  font-size: 20px;
+  font-weight: 600;
+}
+/* services end */
+
+/* Project Start */
+.projects .content {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.projects .content .projectBox {
+  width: 50%;
+  padding: 20px;
+}
+.projectBox img {
+  max-width: 100%;
+  min-height: 100%;
+  object-fit: fill;
+}
+/* Projects End */
+/* Review Start */
+.reviews {
+  background: #f7f7f7;
+}
+.reviews .content {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.reviews .content .reviewBox {
+  max-width: calc(50% - 40px);
+  padding: 60px 40px;
+  margin: 20px;
+  background: #2196f3;
+}
+.reviews .content .reviewBox p {
+  color: #fff;
+  font-style: italic;
+  font-size: 16px;
+  font-weight: 300;
+}
+.reviews .content .reviewBox h3 {
+  margin-top: 40px;
+  text-align: end;
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1em;
+}
+.reviews .content .reviewBox h3 span {
+  font-size: 14px;
+  font-weight: 400;
+}
+/* Review End */
+/* Contact Start */
+.contact {
+  background: #111;
+}
+.formBox {
+  min-width: 60%;
+}
+.formBox form {
+  display: flex;
+  flex-direction: column;
+}
+
+.formBox form h3,
+.contactInfo h3 {
+  color: white;
+  font-size: 30px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+.formBox form input,
+.formBox form textarea {
+  margin-bottom: 20px;
+  padding: 15px;
+  font-size: 16px;
+  border: none;
+  outline: none;
+  background: #222;
+  color: #fff;
+  resize: none;
+}
+.formBox form textarea {
+  min-height: 200px;
+}
+.formBox form input::placeholder,
+.formBox form textarea::placeholder {
+  color: #999;
+}
+
+.formBox form input[type="submit"] {
+  max-width: 100px;
+  background: #2196f3;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.contactInfo {
+  min-width: 40%;
+}
+.contactInfoBox {
+  position: relative;
+}
+.contactInfoBox .box {
+  position: relative;
+  padding: 20px 0;
+  display: flex;
+}
+.contactInfoBox .box .icon {
+  min-width: 40px;
+  padding-top: 4px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  font-size: 24px;
+}
+.contactInfoBox .box .text {
+  display: flex;
+  margin-left: 20px;
+  font-size: 16px;
+  color: white;
+  flex-direction: column;
+  font-weight: 300;
+}
+.contact h2,
+.contact p {
+  color: white;
+}
+.contactInfoBox .box .text h3 {
+  font-weight: 500;
+  color: #2196f3;
+  margin-bottom: 0;
+}
+.copyright {
+  background: #111;
+  color: white;
+  text-align: center;
+  padding: 9px;
+}
+/* contact end */
+/* Mobile Responsive CSS */
+@media (max-width: 991px) {
+  header,
+  header.sticky {
+    padding: 20px 50px;
+    z-index: 1000;
+  }
+  .menu {
+    position: fixed;
+    top: 75px;
+    left: -100%;
+    display: block;
+    padding: 100px 50px;
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+    background: #fff;
+    transition: 0.5s;
+    z-index: 999;
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+  }
+  .menu.active {
+    left: 0;
+  }
+  header ul li a {
+    color: #111;
+    font-size: 34px;
+    margin: 10px;
+  }
+  .toggle {
+    width: 40px;
+    height: 40px;
+    background: url(../img/menu.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 30px;
+    cursor: pointer;
+  }
+  .toggle.active {
+    background: url(../img/close.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 25px;
+    cursor: pointer;
+  }
+  header.sticky .toggle {
+    filter: invert(1);
+  }
+  section {
+    padding: 100px 50px;
+  }
+  .landing {
+    padding: 150px 50px 100px;
+  }
+  .landing h2 {
+    font-size: 2.5em;
+  }
+  .landing h3 {
+    font-size: 2.2em;
+  }
+  .btn {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  .heading h2 {
+    font-size: 24px;
+  }
+  .contentBox h3 {
+    font-size: 20px;
+  }
+  .content {
+    flex-direction: column;
+  }
+  .w50 {
+    margin-bottom: 20px;
+  }
+  .services .content .servicesBox {
+    margin: 10px;
+  }
+  .projects .content .projectBox {
+    width: 100%;
+    padding: 10px;
+  }
+  .reviews .content .reviewBox {
+    max-width: calc(100% - 20px);
+    padding: 40px 20px;
+    margin: 10px;
+  }
+  .reviews .content .reviewBox h3 {
+    margin-top: 20px;
+  }
+  .contactInfo {
+    margin: 20px 0;
+  }
+}
+
+@media (max-width: 600px) {
+  header,
+  header.sticky {
+    padding: 20px 20px;
+  }
+  .landing {
+    padding: 150px 20px 100px;
+  }
+  section {
+    padding: 100px 20px;
+  }
+  .contact .content .contactInfoBox {
+    text-align: center;
+  }
+}
