@@ -344,6 +344,7 @@ header.sticky ul li a {
     background-repeat: no-repeat;
     background-size: 30px;
     cursor: pointer;
+    filter: invert(1);
   }
   .toggle.active {
     background: url(../img/close.png);
